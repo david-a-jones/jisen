@@ -1,0 +1,25 @@
+{
+  "name": "jisen",
+  "version": "0.0.1",
+  "description": "Tool designed for language learners to automate looking up words in a variety of sources simultaneously. Useful for cases where you consult multiple sources when studying vocabulary.",
+  "main": "index.js",
+  "scripts": {
+    "build": "rollup -c",
+    "test": "jest"
+  },
+  "keywords": [
+    "language",
+    "learning",
+    "automation",
+    "Japanese"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/david-a-jones/jisen.git"
+  },
+  "devDependencies": {
+    "rollup": "1.3.0"
+  },
+  "author": "david.jones",
+  "license": "ISC"
+}
