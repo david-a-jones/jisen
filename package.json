@@ -18,7 +18,7 @@
     "url": "https://github.com/david-a-jones/jisen.git"
   },
   "devDependencies": {
-    "rollup": "1.3.0"
+    "rollup": "3.29.5"
   },
   "author": "david.jones",
   "license": "ISC"
